@@ -1,0 +1,17 @@
+.ImageItem {
+    width: 30%;
+    display: inline-block !important;
+}
+
+.uploadImage {
+    width: 80%;
+}
+
+.amenity label{
+    display: inline-block;
+}
+
+.amenity input{
+    display: inline-block;
+    margin-right: 8px;
+}

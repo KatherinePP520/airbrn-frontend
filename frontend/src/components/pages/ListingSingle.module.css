@@ -1,0 +1,54 @@
+.image{
+    cursor: pointer;
+}
+
+.bookBtn{
+    width:332px;
+    margin: 0 auto;
+}
+
+.amenityString {
+    display: inline-block;
+}
+
+.card {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.reviewSection{
+    margin-top: 20px;
+}
+
+.reviewInput {
+    width: 80%;
+    max-width: 800px;
+    display: inline-block;
+}
+
+.sendReviewBtn {
+    width: 15%;
+    max-width: 100px;
+    display: inline-block;
+    height: 62px;
+    position: relative;
+    top: -22px;
+}
+
+.title, .reviewTitle {
+    display: inline-block;
+}
+
+.reviewCount {
+    display: inline;
+    position: relative;
+    color: grey;
+    font-size: 0.9rem;
+  }
+
+  .rating {
+    display: inline-block;
+    position: relative;
+    top: 6px;
+    left: 5px;
+  }

@@ -1,0 +1,44 @@
+.item {
+  cursor: pointer;
+  position: relative;
+  }
+  
+.image {
+  width: 100%;
+  overflow: hidden;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+.image img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+.content {
+  text-align: center;
+  padding: 1rem;
+}
+
+.content h3 {
+  font-size: 1.1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #2c292b;
+}
+  
+
+.reviewCount {
+  display: inline;
+  position: relative;
+  color: grey;
+  font-size: 0.9rem;
+  top:  -6px;
+}
+.bookedBadge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

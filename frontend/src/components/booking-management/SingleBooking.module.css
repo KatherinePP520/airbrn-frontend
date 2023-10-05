@@ -1,0 +1,22 @@
+.content {
+    padding: 20px;
+    position: relative;
+}
+
+.btnSection {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.accepted {
+    color: green;
+}
+
+.pending {
+    color: rgb(255, 181, 8);
+}
+
+.declined {
+    color: red;
+}

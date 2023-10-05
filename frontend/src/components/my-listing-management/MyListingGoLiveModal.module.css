@@ -1,0 +1,9 @@
+.contentSection {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    margin-bottom: 10px;
+}

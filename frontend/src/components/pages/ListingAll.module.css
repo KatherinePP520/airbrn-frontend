@@ -1,0 +1,13 @@
+.filterSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sortBtn {
+    display: inline-block;
+}
+
+.searchBox {
+    height: 2rem;
+}

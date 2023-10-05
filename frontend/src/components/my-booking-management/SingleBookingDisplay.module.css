@@ -1,0 +1,12 @@
+.bookingBtn{
+  width:100px;
+  dispaly:inline-block;
+  margin-right: 20px;
+}
+.value{
+    font-size: 1.2em; 
+    margin-left: 10px;
+}
+.mainSection {
+  padding: 10px;
+}
